@@ -1,0 +1,94 @@
+{
+  "version": "TEST-1.0",
+  "date": "2026-10-27",
+  "label": "TEST listing + shipping-readiness checklist",
+  "corridor": "UAE → UK",
+  "disclaimer": "Test checklist only. Not legal or customs clearance.",
+  "rules": [
+    {
+      "id": "scope",
+      "title": "Eligible, non-excluded side-view mirror",
+      "title_ar": "مرآة جانبية ضمن النطاق المسموح",
+      "fields": [
+        "part_type"
+      ],
+      "severity": "specialist"
+    },
+    {
+      "id": "identity",
+      "title": "Identifier, manufacturer and position verified",
+      "title_ar": "تأكيد الرقم والشركة والجهة",
+      "fields": [
+        "manufacturer",
+        "part_number",
+        "side"
+      ],
+      "severity": "required"
+    },
+    {
+      "id": "donor",
+      "title": "Donor records have no unresolved conflicts",
+      "title_ar": "لا توجد تناقضات في بيانات السيارة المانحة",
+      "fields": [
+        "donor_make",
+        "donor_model",
+        "donor_year"
+      ],
+      "severity": "specialist"
+    },
+    {
+      "id": "condition",
+      "title": "Used condition, all defects and test status disclosed",
+      "title_ar": "توضيح الحالة المستعملة والعيوب والاختبار",
+      "fields": [
+        "condition",
+        "defects",
+        "testing_status"
+      ],
+      "severity": "required"
+    },
+    {
+      "id": "components",
+      "title": "Included components identified",
+      "title_ar": "تحديد المكونات المشمولة",
+      "fields": [
+        "included_components"
+      ],
+      "severity": "required"
+    },
+    {
+      "id": "packing",
+      "title": "Packed dimensions and weight recorded",
+      "title_ar": "تسجيل أبعاد ووزن التغليف",
+      "fields": [
+        "packed_dimensions",
+        "packed_weight"
+      ],
+      "severity": "required"
+    },
+    {
+      "id": "storage",
+      "title": "Storage location and asking price recorded",
+      "title_ar": "تسجيل موقع التخزين والسعر",
+      "fields": [
+        "storage_location",
+        "asking_price"
+      ],
+      "severity": "required"
+    },
+    {
+      "id": "compatibility",
+      "title": "Compatibility supported or explicitly not claimed",
+      "title_ar": "التوافق مدعوم بمرجع أو غير مزعوم",
+      "fields": [],
+      "severity": "required"
+    },
+    {
+      "id": "shipping",
+      "title": "UK carrier, service, import charges and packaging need seller review",
+      "title_ar": "مراجعة الناقل والرسوم والتغليف مطلوبة",
+      "fields": [],
+      "severity": "required"
+    }
+  ]
+}

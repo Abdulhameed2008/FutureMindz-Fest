@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { execFileSync } from 'node:child_process';
+import { evaluate, type Answer, type Baseline } from '../server/evaluation.js';
+import type { Part, Compatibility, Checklist } from '../shared/types.js';
+const data=path.join(process.cwd(),'data');
+if(!fs.existsSync(path.join(data,'seed_records.json')))execFileSync(process.execPath,['scripts/fixtures.mjs'],{stdio:'inherit'});
+const read=<T>(name:string):T=>JSON.parse(fs.readFileSync(path.join(data,name),'utf8'));
+const result=evaluate(read<Part[]>('seed_records.json'),read<Compatibility[]>('compatibility.json'),read<Checklist>('checklist.json'),read<{records:Answer[]}>('answer_key.json').records,read<{records:Baseline[]}>('manual_baseline.json').records);
+fs.writeFileSync(path.join(data,'evaluation_result.json'),JSON.stringify(result,null,2));
+console.log(result.label);
+console.table(result.metrics.map(m=>({metric:m.label,prototype:`${m.prototype}%`,manual_simulated:`${m.manual}%`,scored:`${m.numerator}/${m.denominator}`})));
+console.log(`Machine draft generation: ${result.preparation.prototypeMachineMs} ms. Simulated manual total: ${result.preparation.manualSimulatedSeconds} seconds. Human review time not measured.`);
+console.log(`Open prototype questions: ${result.corrections.prototypeOpenQuestions}. Simulated manual corrections: ${result.corrections.manualSimulated}.`);
+console.log('Full output: data/evaluation_result.json');

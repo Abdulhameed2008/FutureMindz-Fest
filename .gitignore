@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+data/*.sqlite*
+data/uploads/
+data/evaluation_result.json
+data/*.log
+.playwright-cli/

@@ -1,0 +1,554 @@
+{
+  "label": "Synthetic judge answer key. Never used by extraction or listing generation.",
+  "version": "1.0",
+  "records": [
+    {
+      "id": "G2G-001",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Toyota",
+        "part_number": "SYN-TO-2100-L",
+        "side": "Left",
+        "donor_make": "Toyota",
+        "donor_model": "Camry",
+        "donor_year": "2019",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Seller tested: adjustment motor only",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A1-01",
+        "asking_price": "48"
+      },
+      "expected_gaps": [],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": false
+    },
+    {
+      "id": "G2G-002",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Toyota",
+        "part_number": null,
+        "side": "Right",
+        "donor_make": "Toyota",
+        "donor_model": "Corolla",
+        "donor_year": null,
+        "condition": "Used",
+        "defects": "Damaged mounting tab",
+        "testing_status": "Not tested",
+        "included_components": null,
+        "packed_dimensions": null,
+        "packed_weight": null,
+        "storage_location": "DXB · A1-02",
+        "asking_price": "54"
+      },
+      "expected_gaps": [
+        "part_number",
+        "donor_year",
+        "defects",
+        "testing_status",
+        "included_components",
+        "packed_dimensions",
+        "packed_weight"
+      ],
+      "expected_conflicts": [
+        "donor_year"
+      ],
+      "required_defects": [
+        "Damaged mounting tab"
+      ],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-003",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Nissan",
+        "part_number": "SYN-NI-2102-L",
+        "side": "Left",
+        "donor_make": "Nissan",
+        "donor_model": "Altima",
+        "donor_year": "2018",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": null,
+        "packed_weight": null,
+        "storage_location": "DXB · A1-03",
+        "asking_price": "60"
+      },
+      "expected_gaps": [
+        "packed_dimensions",
+        "packed_weight"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": false
+    },
+    {
+      "id": "G2G-004",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Mercedes-Benz",
+        "part_number": "SYN-ME-2103-R",
+        "side": "Right",
+        "donor_make": "Mercedes-Benz",
+        "donor_model": "C-Class",
+        "donor_year": "2016",
+        "condition": "Used",
+        "defects": "Scratches on outer housing",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A1-04",
+        "asking_price": "66"
+      },
+      "expected_gaps": [
+        "defects"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [
+        "Scratches on outer housing"
+      ],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-005",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "BMW",
+        "part_number": "SYN-BM-2104-L",
+        "side": "Left",
+        "donor_make": "BMW",
+        "donor_model": "3 Series",
+        "donor_year": "2018",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Seller tested: adjustment motor only",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A1-05",
+        "asking_price": "72"
+      },
+      "expected_gaps": [],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": false
+    },
+    {
+      "id": "G2G-006",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Toyota",
+        "part_number": "SYN-TO-2105-R",
+        "side": "Right",
+        "donor_make": "Toyota",
+        "donor_model": "RAV4",
+        "donor_year": "2020",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": null,
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": null,
+        "storage_location": "DXB · A2-01",
+        "asking_price": "78"
+      },
+      "expected_gaps": [
+        "included_components",
+        "packed_weight"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-007",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Lexus",
+        "part_number": "SYN-LE-2106-L",
+        "side": "Left",
+        "donor_make": "Lexus",
+        "donor_model": "IS",
+        "donor_year": "2017",
+        "condition": "Used",
+        "defects": "Crack on mirror glass",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": null,
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A2-02",
+        "asking_price": "84"
+      },
+      "expected_gaps": [
+        "defects",
+        "packed_dimensions"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [
+        "Crack on mirror glass"
+      ],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-008",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Nissan",
+        "part_number": "SYN-NI-2107-R",
+        "side": null,
+        "donor_make": "Nissan",
+        "donor_model": "Patrol",
+        "donor_year": "2019",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A2-03",
+        "asking_price": "90"
+      },
+      "expected_gaps": [
+        "side"
+      ],
+      "expected_conflicts": [
+        "side"
+      ],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-009",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Honda",
+        "part_number": "SYN-HO-2108-L",
+        "side": "Left",
+        "donor_make": "Honda",
+        "donor_model": "Accord",
+        "donor_year": "2018",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Seller tested: adjustment motor only",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": null,
+        "storage_location": "DXB · A2-04",
+        "asking_price": "96"
+      },
+      "expected_gaps": [
+        "packed_weight"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": false
+    },
+    {
+      "id": "G2G-010",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Hyundai",
+        "part_number": "SYN-HY-2109-R",
+        "side": "Right",
+        "donor_make": "Hyundai",
+        "donor_model": "Tucson",
+        "donor_year": "2020",
+        "condition": "Used",
+        "defects": "Scratches on outer housing",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": null,
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A2-05",
+        "asking_price": "102"
+      },
+      "expected_gaps": [
+        "defects",
+        "packed_dimensions"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [
+        "Scratches on outer housing"
+      ],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-011",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Kia",
+        "part_number": "SYN-KI-2110-L",
+        "side": "Left",
+        "donor_make": "Kia",
+        "donor_model": "Sportage",
+        "donor_year": "2019",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": null,
+        "storage_location": "DXB · A3-01",
+        "asking_price": "108"
+      },
+      "expected_gaps": [
+        "packed_weight"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-012",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Toyota",
+        "part_number": null,
+        "side": "Right",
+        "donor_make": "Toyota",
+        "donor_model": "Yaris",
+        "donor_year": "2016",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": null,
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A3-02",
+        "asking_price": "114"
+      },
+      "expected_gaps": [
+        "part_number",
+        "packed_dimensions"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-013",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Nissan",
+        "part_number": "SYN-NI-2112-L",
+        "side": "Left",
+        "donor_make": "Nissan",
+        "donor_model": "Sentra",
+        "donor_year": "2017",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Seller tested: adjustment motor only",
+        "included_components": null,
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": null,
+        "storage_location": "DXB · A3-03",
+        "asking_price": "120"
+      },
+      "expected_gaps": [
+        "included_components",
+        "packed_weight"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-014",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Mazda",
+        "part_number": "SYN-MA-2113-R",
+        "side": "Right",
+        "donor_make": "Mazda",
+        "donor_model": "CX-5",
+        "donor_year": "2020",
+        "condition": "Used",
+        "defects": "Scratches on outer housing",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A3-04",
+        "asking_price": "126"
+      },
+      "expected_gaps": [
+        "defects"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [
+        "Scratches on outer housing"
+      ],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-015",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Ford",
+        "part_number": "SYN-FO-2114-L",
+        "side": "Left",
+        "donor_make": "Ford",
+        "donor_model": "Focus",
+        "donor_year": "2018",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": null,
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A3-05",
+        "asking_price": "132"
+      },
+      "expected_gaps": [
+        "packed_dimensions"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-016",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Volkswagen",
+        "part_number": "SYN-VO-2115-R",
+        "side": "Right",
+        "donor_make": "Volkswagen",
+        "donor_model": "Golf",
+        "donor_year": "2017",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": null,
+        "storage_location": "DXB · A4-01",
+        "asking_price": "138"
+      },
+      "expected_gaps": [
+        "packed_weight"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-017",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Audi",
+        "part_number": null,
+        "side": "Left",
+        "donor_make": "Audi",
+        "donor_model": "A4",
+        "donor_year": "2019",
+        "condition": "Used",
+        "defects": "Crack on mirror glass",
+        "testing_status": "Seller tested: adjustment motor only",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A4-02",
+        "asking_price": "144"
+      },
+      "expected_gaps": [
+        "part_number",
+        "defects"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [
+        "Crack on mirror glass"
+      ],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-018",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Mitsubishi",
+        "part_number": "SYN-MI-2117-R",
+        "side": "Right",
+        "donor_make": "Mitsubishi",
+        "donor_model": "ASX",
+        "donor_year": "2018",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": null,
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A4-03",
+        "asking_price": "150"
+      },
+      "expected_gaps": [
+        "packed_dimensions"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-019",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Honda",
+        "part_number": "SYN-HO-2118-L",
+        "side": "Left",
+        "donor_make": "Honda",
+        "donor_model": "Civic",
+        "donor_year": "2019",
+        "condition": "Used",
+        "defects": "None reported",
+        "testing_status": "Not tested",
+        "included_components": null,
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": null,
+        "storage_location": "DXB · A4-04",
+        "asking_price": "156"
+      },
+      "expected_gaps": [
+        "included_components",
+        "packed_weight"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [],
+      "compatibility_should_be_unclaimed": true
+    },
+    {
+      "id": "G2G-020",
+      "expected_fields": {
+        "part_type": "Side-view mirror",
+        "manufacturer": "Hyundai",
+        "part_number": "SYN-HY-2119-R",
+        "side": "Right",
+        "donor_make": "Hyundai",
+        "donor_model": "Elantra",
+        "donor_year": "2017",
+        "condition": "Used",
+        "defects": "Scratches on outer housing",
+        "testing_status": "Not tested",
+        "included_components": "Mirror glass, housing, mounting base; no wiring harness",
+        "packed_dimensions": "35 x 24 x 19",
+        "packed_weight": "2.4",
+        "storage_location": "DXB · A4-05",
+        "asking_price": "162"
+      },
+      "expected_gaps": [
+        "defects"
+      ],
+      "expected_conflicts": [],
+      "required_defects": [
+        "Scratches on outer housing"
+      ],
+      "compatibility_should_be_unclaimed": true
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "part_id": "G2G-001",
+    "donor_make": "Toyota",
+    "donor_model": "Camry",
+    "donor_year": "2019"
+  },
+  {
+    "part_id": "G2G-002",
+    "donor_make": "Toyota",
+    "donor_model": "Corolla",
+    "donor_year": "2018"
+  },
+  {
+    "part_id": "G2G-003",
+    "donor_make": "Nissan",
+    "donor_model": "Altima",
+    "donor_year": "2018"
+  },
+  {
+    "part_id": "G2G-004",
+    "donor_make": "Mercedes-Benz",
+    "donor_model": "C-Class",
+    "donor_year": "2016"
+  },
+  {
+    "part_id": "G2G-005",
+    "donor_make": "BMW",
+    "donor_model": "3 Series",
+    "donor_year": "2018"
+  },
+  {
+    "part_id": "G2G-006",
+    "donor_make": "Toyota",
+    "donor_model": "RAV4",
+    "donor_year": "2020"
+  },
+  {
+    "part_id": "G2G-007",
+    "donor_make": "Lexus",
+    "donor_model": "IS",
+    "donor_year": "2017"
+  },
+  {
+    "part_id": "G2G-008",
+    "donor_make": "Nissan",
+    "donor_model": "Patrol",
+    "donor_year": "2019"
+  },
+  {
+    "part_id": "G2G-009",
+    "donor_make": "Honda",
+    "donor_model": "Accord",
+    "donor_year": "2018"
+  },
+  {
+    "part_id": "G2G-010",
+    "donor_make": "Hyundai",
+    "donor_model": "Tucson",
+    "donor_year": "2020"
+  },
+  {
+    "part_id": "G2G-011",
+    "donor_make": "Kia",
+    "donor_model": "Sportage",
+    "donor_year": "2019"
+  },
+  {
+    "part_id": "G2G-012",
+    "donor_make": "Toyota",
+    "donor_model": "Yaris",
+    "donor_year": "2016"
+  },
+  {
+    "part_id": "G2G-013",
+    "donor_make": "Nissan",
+    "donor_model": "Sentra",
+    "donor_year": "2017"
+  },
+  {
+    "part_id": "G2G-014",
+    "donor_make": "Mazda",
+    "donor_model": "CX-5",
+    "donor_year": "2020"
+  },
+  {
+    "part_id": "G2G-015",
+    "donor_make": "Ford",
+    "donor_model": "Focus",
+    "donor_year": "2018"
+  },
+  {
+    "part_id": "G2G-016",
+    "donor_make": "Volkswagen",
+    "donor_model": "Golf",
+    "donor_year": "2017"
+  },
+  {
+    "part_id": "G2G-017",
+    "donor_make": "Audi",
+    "donor_model": "A4",
+    "donor_year": "2019"
+  },
+  {
+    "part_id": "G2G-018",
+    "donor_make": "Mitsubishi",
+    "donor_model": "ASX",
+    "donor_year": "2018"
+  },
+  {
+    "part_id": "G2G-019",
+    "donor_make": "Honda",
+    "donor_model": "Civic",
+    "donor_year": "2019"
+  },
+  {
+    "part_id": "G2G-020",
+    "donor_make": "Hyundai",
+    "donor_model": "Elantra",
+    "donor_year": "2017"
+  }
+]

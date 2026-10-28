@@ -1,0 +1,5348 @@
+[
+  {
+    "id": "G2G-001",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Toyota",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Toyota",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-TO-2100-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-TO-2100-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Toyota",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Toyota",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Camry",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Camry",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2019",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2019",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Seller tested: adjustment motor only",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Seller tested: adjustment motor only",
+            "source": "seller-confirmed",
+            "reference": "Noor synthetic test log / 2026-10-27: bench 12V supply, adjustment motor moved both axes; heating and folding not tested.",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A1-01",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A1-01",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A1-01",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "48",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "48",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "48",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-001.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-001: used left mirror. Noor recorded: adjustment motor tested only; heating and folding not tested.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-001"
+      },
+      {
+        "text": "G2G-001: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-001"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-001",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-001",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-002",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Toyota",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Toyota",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-TO-21??-R",
+        "source": "photo",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "SYN-TO-21??-R",
+            "source": "photo",
+            "reference": "Label partly unreadable; unknown digits must not be inferred",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Toyota",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Toyota",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Corolla",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Corolla",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": null,
+        "source": "spreadsheet",
+        "status": "Conflicting",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2017",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "2018",
+            "source": "Arabic note",
+            "reference": "Dismantling note: السيارة المانحة كورولا 2018",
+            "confidence": 0.9,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "Damaged mounting tab",
+        "source": "photo",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Damaged mounting tab",
+            "source": "photo",
+            "reference": "Synthetic photo: broken mounting tab",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "WhatsApp",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "WhatsApp",
+            "reference": "Noor intake message: لم يتم الاختبار",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_dimensions": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_weight": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "storage_location": {
+        "value": "DXB · A1-02",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A1-02",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A1-02",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "54",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "54",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "54",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-002.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-002: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-002"
+      },
+      {
+        "text": "G2G-002: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-002"
+      },
+      {
+        "text": "G2G-002: Corolla 2017 in spreadsheet; dismantling note says 2018. Part label partly unreadable. Damaged mounting tab. Not tested.",
+        "source": "WhatsApp",
+        "reference": "Difficult demo intake"
+      },
+      {
+        "text": "G2G-002: كورولا 2018. لسان التثبيت مكسور. رقم القطعة غير واضح. لم يتم الاختبار.",
+        "source": "Arabic note",
+        "reference": "Dismantling message"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-002",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-002",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-003",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Nissan",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Nissan",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-NI-2102-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-NI-2102-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Nissan",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Nissan",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Altima",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Altima",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2018",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2018",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_weight": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "storage_location": {
+        "value": "DXB · A1-03",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A1-03",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A1-03",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "60",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "60",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "60",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-003.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-003: used left mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-003"
+      },
+      {
+        "text": "G2G-003: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-003"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-003",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-003",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-004",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Mercedes-Benz",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mercedes-Benz",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-ME-2103-R",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-ME-2103-R",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Mercedes-Benz",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Mercedes-Benz",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "C-Class",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "C-Class",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2016",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2016",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "Scratches on outer housing",
+        "source": "photo",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Scratches on outer housing",
+            "source": "photo",
+            "reference": "Synthetic placeholder inspection G2G-004",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A1-04",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A1-04",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A1-04",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "66",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "66",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "66",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-004.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-004: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-004"
+      },
+      {
+        "text": "G2G-004: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-004"
+      },
+      {
+        "text": "G2G-004: Scratches on outer housing. Please confirm before listing.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-004"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-004",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-004",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-005",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "BMW",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "BMW",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-BM-2104-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-BM-2104-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "BMW",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "BMW",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "3 Series",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "3 Series",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2018",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2018",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Seller tested: adjustment motor only",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Seller tested: adjustment motor only",
+            "source": "seller-confirmed",
+            "reference": "Noor synthetic test log / 2026-10-27: bench 12V supply, adjustment motor moved both axes; heating and folding not tested.",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A1-05",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A1-05",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A1-05",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "72",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "72",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "72",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-005.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-005: used left mirror. Noor recorded: adjustment motor tested only; heating and folding not tested.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-005"
+      },
+      {
+        "text": "G2G-005: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-005"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-005",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-005",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-006",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Toyota",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Toyota",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-TO-2105-R",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-TO-2105-R",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Toyota",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Toyota",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "RAV4",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "RAV4",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2020",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2020",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "storage_location": {
+        "value": "DXB · A2-01",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A2-01",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A2-01",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "78",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "78",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "78",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-006.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-006: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-006"
+      },
+      {
+        "text": "G2G-006: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-006"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-006",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-006",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-007",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Lexus",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Lexus",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-LE-2106-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-LE-2106-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Lexus",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Lexus",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "IS",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "IS",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2017",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2017",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "Crack on mirror glass",
+        "source": "photo",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Crack on mirror glass",
+            "source": "photo",
+            "reference": "Synthetic placeholder inspection G2G-007",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A2-02",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A2-02",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A2-02",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "84",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "84",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "84",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-007.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-007: used left mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-007"
+      },
+      {
+        "text": "G2G-007: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-007"
+      },
+      {
+        "text": "G2G-007: Crack on mirror glass. Please confirm before listing.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-007"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-007",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-007",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-008",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Nissan",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Nissan",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-NI-2107-R",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-NI-2107-R",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": null,
+        "source": "seller-confirmed",
+        "status": "Conflicting",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "Left",
+            "source": "WhatsApp",
+            "reference": "Note disagrees with donor label",
+            "confidence": 0.8,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Nissan",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Nissan",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Patrol",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Patrol",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2019",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2019",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A2-03",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A2-03",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A2-03",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "90",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "90",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "90",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-008.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-008: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-008"
+      },
+      {
+        "text": "G2G-008: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-008"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-008",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-008",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-009",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Honda",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Honda",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-HO-2108-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-HO-2108-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Honda",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Honda",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Accord",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Accord",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2018",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2018",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Seller tested: adjustment motor only",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Seller tested: adjustment motor only",
+            "source": "seller-confirmed",
+            "reference": "Noor synthetic test log / 2026-10-27: bench 12V supply, adjustment motor moved both axes; heating and folding not tested.",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "storage_location": {
+        "value": "DXB · A2-04",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A2-04",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A2-04",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "96",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "96",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "96",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-009.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-009: used left mirror. Noor recorded: adjustment motor tested only; heating and folding not tested.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-009"
+      },
+      {
+        "text": "G2G-009: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-009"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-009",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-009",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-010",
+    "batch": "Demo batch · 10 mirrors",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Hyundai",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Hyundai",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-HY-2109-R",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-HY-2109-R",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Hyundai",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Hyundai",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Tucson",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Tucson",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2020",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2020",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "Scratches on outer housing",
+        "source": "photo",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Scratches on outer housing",
+            "source": "photo",
+            "reference": "Synthetic placeholder inspection G2G-010",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A2-05",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A2-05",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A2-05",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "102",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "102",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "102",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-010.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-010: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-010"
+      },
+      {
+        "text": "G2G-010: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-010"
+      },
+      {
+        "text": "G2G-010: Scratches on outer housing. Please confirm before listing.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-010"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-010",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-010",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-011",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Kia",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Kia",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-KI-2110-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-KI-2110-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Kia",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Kia",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Sportage",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Sportage",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2019",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2019",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "storage_location": {
+        "value": "DXB · A3-01",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A3-01",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A3-01",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "108",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "108",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "108",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-011.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-011: used left mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-011"
+      },
+      {
+        "text": "G2G-011: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-011"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-011",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-011",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-012",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Toyota",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Toyota",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Toyota",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Toyota",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Yaris",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Yaris",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2016",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2016",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A3-02",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A3-02",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A3-02",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "114",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "114",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "114",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-012.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-012: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-012"
+      },
+      {
+        "text": "G2G-012: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-012"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-012",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-012",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-013",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Nissan",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Nissan",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-NI-2112-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-NI-2112-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Nissan",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Nissan",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Sentra",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Sentra",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2017",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2017",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Seller tested: adjustment motor only",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Seller tested: adjustment motor only",
+            "source": "seller-confirmed",
+            "reference": "Noor synthetic test log / 2026-10-27: bench 12V supply, adjustment motor moved both axes; heating and folding not tested.",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "storage_location": {
+        "value": "DXB · A3-03",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A3-03",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A3-03",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "120",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "120",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "120",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-013.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-013: used left mirror. Noor recorded: adjustment motor tested only; heating and folding not tested.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-013"
+      },
+      {
+        "text": "G2G-013: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-013"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-013",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-013",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-014",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Mazda",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mazda",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-MA-2113-R",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-MA-2113-R",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Mazda",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Mazda",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "CX-5",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "CX-5",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2020",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2020",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "Scratches on outer housing",
+        "source": "photo",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Scratches on outer housing",
+            "source": "photo",
+            "reference": "Synthetic placeholder inspection G2G-014",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A3-04",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A3-04",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A3-04",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "126",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "126",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "126",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-014.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-014: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-014"
+      },
+      {
+        "text": "G2G-014: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-014"
+      },
+      {
+        "text": "G2G-014: Scratches on outer housing. Please confirm before listing.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-014"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-014",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-014",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-015",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Ford",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Ford",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-FO-2114-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-FO-2114-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Ford",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Ford",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Focus",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Focus",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2018",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2018",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A3-05",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A3-05",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A3-05",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "132",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "132",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "132",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-015.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-015: used left mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-015"
+      },
+      {
+        "text": "G2G-015: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-015"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-015",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-015",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-016",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Volkswagen",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Volkswagen",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-VO-2115-R",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-VO-2115-R",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Volkswagen",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Volkswagen",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Golf",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Golf",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2017",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2017",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "storage_location": {
+        "value": "DXB · A4-01",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A4-01",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A4-01",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "138",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "138",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "138",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-016.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-016: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-016"
+      },
+      {
+        "text": "G2G-016: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-016"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-016",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-016",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-017",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Audi",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Audi",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Audi",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Audi",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "A4",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "A4",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2019",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2019",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "Crack on mirror glass",
+        "source": "photo",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Crack on mirror glass",
+            "source": "photo",
+            "reference": "Synthetic placeholder inspection G2G-017",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Seller tested: adjustment motor only",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Seller tested: adjustment motor only",
+            "source": "seller-confirmed",
+            "reference": "Noor synthetic test log / 2026-10-27: bench 12V supply, adjustment motor moved both axes; heating and folding not tested.",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A4-02",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A4-02",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A4-02",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "144",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "144",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "144",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-017.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-017: used left mirror. Noor recorded: adjustment motor tested only; heating and folding not tested.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-017"
+      },
+      {
+        "text": "G2G-017: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-017"
+      },
+      {
+        "text": "G2G-017: Crack on mirror glass. Please confirm before listing.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-017"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-017",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-017",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-018",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Mitsubishi",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mitsubishi",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-MI-2117-R",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-MI-2117-R",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Mitsubishi",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Mitsubishi",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "ASX",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "ASX",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2018",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2018",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A4-03",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A4-03",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A4-03",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "150",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "150",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "150",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-018.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-018: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-018"
+      },
+      {
+        "text": "G2G-018: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-018"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-018",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-018",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-019",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Honda",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Honda",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-HO-2118-L",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-HO-2118-L",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Left",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Left",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Honda",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Honda",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Civic",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Civic",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2019",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2019",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "None reported",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "None reported",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": null,
+        "source": null,
+        "status": "Missing",
+        "confidence": 0,
+        "evidence": []
+      },
+      "storage_location": {
+        "value": "DXB · A4-04",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A4-04",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A4-04",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "156",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "156",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "156",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-019.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-019: used left mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-019"
+      },
+      {
+        "text": "G2G-019: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-019"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-019",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-019",
+        "source": "seed fixtures"
+      }
+    ]
+  },
+  {
+    "id": "G2G-020",
+    "batch": "Extended sample",
+    "fields": {
+      "part_type": {
+        "value": "Side-view mirror",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Side-view mirror",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "manufacturer": {
+        "value": "Hyundai",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Hyundai",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "part_number": {
+        "value": "SYN-HY-2119-R",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "SYN-HY-2119-R",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "side": {
+        "value": "Right",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Right",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_make": {
+        "value": "Hyundai",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Hyundai",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_model": {
+        "value": "Elantra",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Elantra",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "donor_year": {
+        "value": "2017",
+        "source": "donor record",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "2017",
+            "source": "donor record",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "condition": {
+        "value": "Used",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Used",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "defects": {
+        "value": "Scratches on outer housing",
+        "source": "photo",
+        "status": "Unverified",
+        "confidence": 0.88,
+        "evidence": [
+          {
+            "value": "Scratches on outer housing",
+            "source": "photo",
+            "reference": "Synthetic placeholder inspection G2G-020",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "testing_status": {
+        "value": "Not tested",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Not tested",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "included_components": {
+        "value": "Mirror glass, housing, mounting base; no wiring harness",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "Mirror glass, housing, mounting base; no wiring harness",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_dimensions": {
+        "value": "35 x 24 x 19",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "35 x 24 x 19",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "packed_weight": {
+        "value": "2.4",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "2.4",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "storage_location": {
+        "value": "DXB · A4-05",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "DXB · A4-05",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "DXB · A4-05",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      },
+      "asking_price": {
+        "value": "162",
+        "source": "seller-confirmed",
+        "status": "Confirmed",
+        "confidence": 1,
+        "evidence": [
+          {
+            "value": "162",
+            "source": "spreadsheet",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 0.88,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          },
+          {
+            "value": "162",
+            "source": "seller-confirmed",
+            "reference": "Synthetic seller intake signed by Noor",
+            "confidence": 1,
+            "recordedAt": "2026-10-27T08:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "photos": [
+      "/mirrors/G2G-020.svg"
+    ],
+    "notes": [
+      {
+        "text": "G2G-020: used right mirror. Not tested. Do not claim functionality.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-020"
+      },
+      {
+        "text": "G2G-020: مرآة مستعملة. لا تدّعِ التوافق دون مرجع مستقل.",
+        "source": "Arabic note",
+        "reference": "whatsapp_ar.txt / G2G-020"
+      },
+      {
+        "text": "G2G-020: Scratches on outer housing. Please confirm before listing.",
+        "source": "WhatsApp",
+        "reference": "whatsapp_en.txt / G2G-020"
+      }
+    ],
+    "revision": 1,
+    "createdAt": "2026-10-27T08:00:00.000Z",
+    "audit": [
+      {
+        "id": "seed-G2G-020",
+        "who": "Noor (synthetic)",
+        "when": "2026-10-27T08:00:00.000Z",
+        "action": "Merged synthetic intake sources",
+        "old": null,
+        "new": "G2G-020",
+        "source": "seed fixtures"
+      }
+    ]
+  }
+]

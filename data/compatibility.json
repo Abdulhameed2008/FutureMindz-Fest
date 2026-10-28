@@ -1,0 +1,54 @@
+[
+  {
+    "id": "SYN-REF-1",
+    "manufacturer": "Toyota",
+    "part_number": "SYN-TO-2100-L",
+    "side": "Left",
+    "make": "Toyota",
+    "model": "Camry",
+    "year_from": 2019,
+    "year_to": 2019,
+    "configuration": "Synthetic reference: same side; adjustment motor; connector and UK configuration must be independently checked",
+    "reference": "Fictional approved catalogue v1.0 / row 1",
+    "approved": true
+  },
+  {
+    "id": "SYN-REF-3",
+    "manufacturer": "Nissan",
+    "part_number": "SYN-NI-2102-L",
+    "side": "Left",
+    "make": "Nissan",
+    "model": "Altima",
+    "year_from": 2018,
+    "year_to": 2018,
+    "configuration": "Synthetic reference: same side; adjustment motor; connector and UK configuration must be independently checked",
+    "reference": "Fictional approved catalogue v1.0 / row 3",
+    "approved": true
+  },
+  {
+    "id": "SYN-REF-5",
+    "manufacturer": "BMW",
+    "part_number": "SYN-BM-2104-L",
+    "side": "Left",
+    "make": "BMW",
+    "model": "3 Series",
+    "year_from": 2018,
+    "year_to": 2018,
+    "configuration": "Synthetic reference: same side; adjustment motor; connector and UK configuration must be independently checked",
+    "reference": "Fictional approved catalogue v1.0 / row 5",
+    "approved": true
+  },
+  {
+    "id": "SYN-REF-9",
+    "manufacturer": "Honda",
+    "part_number": "SYN-HO-2108-L",
+    "side": "Left",
+    "make": "Honda",
+    "model": "Accord",
+    "year_from": 2018,
+    "year_to": 2018,
+    "configuration": "Synthetic reference: same side; adjustment motor; connector and UK configuration must be independently checked",
+    "reference": "Fictional approved catalogue v1.0 / row 9",
+    "approved": true
+  }
+]

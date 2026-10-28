@@ -1,0 +1,21 @@
+part_id,donor_make,donor_model,donor_year
+G2G-001,Toyota,Camry,2019
+G2G-002,Toyota,Corolla,2018
+G2G-003,Nissan,Altima,2018
+G2G-004,Mercedes-Benz,C-Class,2016
+G2G-005,BMW,3 Series,2018
+G2G-006,Toyota,RAV4,2020
+G2G-007,Lexus,IS,2017
+G2G-008,Nissan,Patrol,2019
+G2G-009,Honda,Accord,2018
+G2G-010,Hyundai,Tucson,2020
+G2G-011,Kia,Sportage,2019
+G2G-012,Toyota,Yaris,2016
+G2G-013,Nissan,Sentra,2017
+G2G-014,Mazda,CX-5,2020
+G2G-015,Ford,Focus,2018
+G2G-016,Volkswagen,Golf,2017
+G2G-017,Audi,A4,2019
+G2G-018,Mitsubishi,ASX,2018
+G2G-019,Honda,Civic,2019
+G2G-020,Hyundai,Elantra,2017
